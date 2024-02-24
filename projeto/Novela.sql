@@ -8,6 +8,6 @@ create table TbNovela(
     data_primeiro_capitulo date,
     data_ultimo_capitulo date
 );
-select * from TbNovela;
-select nome_novela from TbNovela where codigo=1;
+/*select * from TbNovela;
+select nome_novela from TbNovela where codigo=1;*/
     
